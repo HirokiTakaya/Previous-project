@@ -1,0 +1,2862 @@
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/app/firebase-namespace.js:84
+        this.INTERNAL = new FirebaseNamespaceInternals(appStore ?? new lifecycle_1.AppStore());
+                                                                 ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at Module.Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/node_modules/firebase-admin/lib/default-namespace.js:19:30)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '~/tastely/backend/auth-5793f-firebase-adminsdk-yi5ey-f7e097fbbe.json'
+Require stack:
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/app.js:7:24)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [ '/home/ubuntu/tastely/backend/app.js' ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../path/to/auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+Error: Cannot find module '../../auth'
+Require stack:
+- /home/ubuntu/tastely/backend/routes/login.js
+- /home/ubuntu/tastely/backend/app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:81:25)
+    at require (node:internal/modules/helpers:176:18)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/routes/login.js:4:27)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Module.require (node:internal/modules/cjs/loader:1235:19)
+    at Hook._require.Module.require (/usr/local/lib/node_modules/pm2/node_modules/require-in-the-middle/index.js:101:39) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/tastely/backend/routes/login.js',
+    '/home/ubuntu/tastely/backend/app.js'
+  ]
+}
+(node:26315) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Connection.openUri (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/connection.js:825:32)
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:411:10
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:1285:10)
+    at Mongoose.connect (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:410:20)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/models/db.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-1mq73lg-shard-00-01.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-02.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-00.9zf4d5d.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-1zhlh3-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+(node:26372) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:26403) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Connection.openUri (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/connection.js:825:32)
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:411:10
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:1285:10)
+    at Mongoose.connect (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:410:20)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/models/db.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-1mq73lg-shard-00-02.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-01.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-00.9zf4d5d.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-1zhlh3-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+(node:26448) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Connection.openUri (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/connection.js:825:32)
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:411:10
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:1285:10)
+    at Mongoose.connect (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:410:20)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/models/db.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-1mq73lg-shard-00-01.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-02.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-00.9zf4d5d.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-1zhlh3-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+(node:26496) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Connection.openUri (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/connection.js:825:32)
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:411:10
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:1285:10)
+    at Mongoose.connect (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:410:20)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/models/db.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-1mq73lg-shard-00-02.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-00.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-01.9zf4d5d.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-1zhlh3-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+(node:26541) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://docs.atlas.mongodb.com/security-whitelist/
+    at Connection.openUri (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/connection.js:825:32)
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:411:10
+    at /home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:41:5
+    at new Promise (<anonymous>)
+    at promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/helpers/promiseOrCallback.js:40:10)
+    at Mongoose._promiseOrCallback (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:1285:10)
+    at Mongoose.connect (/home/ubuntu/tastely/backend/node_modules/mongoose/lib/index.js:410:20)
+    at Object.<anonymous> (/home/ubuntu/tastely/backend/models/db.js:8:10)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10) {
+  reason: TopologyDescription {
+    type: 'ReplicaSetNoPrimary',
+    servers: Map(3) {
+      'ac-1mq73lg-shard-00-02.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-00.9zf4d5d.mongodb.net:27017' => [ServerDescription],
+      'ac-1mq73lg-shard-00-01.9zf4d5d.mongodb.net:27017' => [ServerDescription]
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: 'atlas-1zhlh3-shard-0',
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+(node:26608) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:26681) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:30731) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:718) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+/home/ubuntu/tastely/backend/app.js:62
+const router = require('./routes');
+      ^
+
+SyntaxError: Identifier 'router' has already been declared
+    at internalCompileFunction (node:internal/vm:77:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1288:20)
+    at Module._compile (node:internal/modules/cjs/loader:1340:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+    at Module._load (node:internal/modules/cjs/loader:1023:12)
+    at Object.<anonymous> (/usr/local/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+    at Module._compile (node:internal/modules/cjs/loader:1376:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+    at Module.load (node:internal/modules/cjs/loader:1207:32)
+(node:3993) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4489) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4510) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4531) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4552) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4573) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4607) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:4644) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:805) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:2129) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:2199) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:718) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1655) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1685) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1718) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:775) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:1645) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:772) [MONGOOSE] DeprecationWarning: Mongoose: the `strictQuery` option will be switched back to `false` by default in Mongoose 7. Use `mongoose.set('strictQuery', false);` if you want to prepare for this change. Or use `mongoose.set('strictQuery', true);` to suppress this warning.
+(Use `node --trace-deprecation ...` to show where the warning was created)
