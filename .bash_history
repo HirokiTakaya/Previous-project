@@ -1150,3 +1150,254 @@ ls
 nano firebase.js
 cd ..
 npm run build
+cd tastely
+ls
+cd frontend
+ls
+cd src
+ls
+cd ..
+ls
+npm run build
+cd src
+nano App.js
+cd ..
+npm run build
+cd src
+ls
+nano App.js
+firebase.js
+cd firebase.js
+nano firebase,
+nano firebase.js
+nano App.js
+cd ..
+npm build
+npm run build
+cd src
+ls
+nano App.js
+nano firebase.js
+ls
+rm firebase,
+ls
+cd ..
+npm run build
+cd src
+nano firebase.js
+cd ..
+npm run build
+cd src
+nano firebase.js
+npm run build
+firebase.js
+cd firebase.js
+nano firebase.js
+ubuntu@ip-172-31-93-7:~/tastely/frontend/src$ npm run build
+> frontend@0.1.0 build
+> react-scripts build
+Creating an optimized production build...
+Failed to compile.
+SyntaxError: /home/ubuntu/tastely/frontend/src/firebase.js: Identifier 'monitorAuthState' has already been declared. (23:6)
+> 23 | const monitorAuthState = (callback) => {
+nano firebase.js
+ls
+cd ..
+ls
+npm run build
+ls
+cd src
+nano firebase.js
+cd ..
+npm run build
+cd src
+nano App.js
+nano firebase.js
+cd .. npm run build
+cd ..
+npm run build
+cd src
+nano firebase.js
+rm firebase.js
+nano firebase.js
+cd ..
+npm run build
+cd src
+nano firebase.js
+App.js
+nano App.js
+cd ..
+npm run build
+cd　src
+cd src
+ls
+cd components
+ls
+cd login
+ls
+nano login.js
+cd ..
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+cd src
+ls
+cd components
+ls
+cd login
+nano login.js
+cd ..
+npm run build
+cd src
+nano login.js
+ls
+rm login.js
+cd login
+ls
+cd components
+ls
+cd login
+nano login.js
+cd ..
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+cd src
+ls
+cd components
+ls
+cd login
+ls
+nano login.js
+cd ..
+ls
+cd ..
+ls
+nano firebase.js
+ls
+cd ..
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+cd src
+ls
+cd components
+ls
+cd register
+cd ..
+cd login
+ls
+nano login.js
+cd ..
+ls
+cd ..
+ls
+nano firebase.js
+nano App.js
+nano index.js
+ls
+cd components
+ls
+nano login
+cd login
+nano login.js
+cd ..
+npm start
+npm install
+npm run build
+cd src/login
+cd src
+ls
+cd components
+cd login
+ls
+nano login.js
+cd ../../
+cd ..
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+cd ..
+cd frontend
+ls
+cd src
+ls
+cd components
+ls
+cd login
+ls
+nano login.js
+cd ..
+cd ../../
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+ls
+cd src
+ls
+nano App.js
+cd components
+ls
+nano login.js
+cd login
+ls
+nano login.js
+ls
+cd ..
+ls
+rm register.js
+rm login.js
+cd register
+ls
+nano register.js
+cd ..
+ls
+cd ..
+ls
+cd src
+ls
+nano App.js
+cd ..
+cd backend
+ls
+nano app.js
+cd models
+ls
+nano users.js
+ls
+nano user.js
+rm user.js
+ls
+cd ..
+ls
+cd routes
+ls
+nano login.js
+ls
+nano register.js
+ls
+cd ..
+nano app.js
+ls
+cd models
+ls
+nano db.js
+cd ..
+cd tastely
+ls
+cd frontend
+ls
+npm run build
+sudo cp -r ~/tastely/frontend/build/* /var/www/myapp/
+cd ..
+cd backend
+npm install firebase-admin --save
+nano app.js
+sudo nano /etc/nginx/sites-available/default
+sudo netstat -tulnp | grep 8080
+cd app.js
+nano app.js
+ls
+cd models
+ls
+nano users.js
+cd ..
+cd routes
+ls
+nano login.js
+ls
